@@ -11,21 +11,21 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: arkadianriver
-description: Flowing creativity &#x2192; Cascading bliss
+title: clockcrew
+description: Solving problems nobody asked us to.
 owner:
-  name: Gary Faircloth # or company name
-  email: gfair@arkadianriver.com
-  url: http://arkadianriver.com
-first_published: 1996 # if migrating another site, the year of your first publish
+  name: Blue
+  email: blueclock@gmail.com
+  url: http://clockcrew.co
+first_published: 2016 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.com" # the base hostname & protocol for your site
+url: "http://clockcrew.co" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome!  
-  text: I hope you enjoy my collection
+  title: Greetings  
+  text: This is the place you were looking for.
 # - title for your blog's featured posts
 features-title: Featured topics
 # - displayed at the bottom
@@ -34,12 +34,12 @@ closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/garyfaircloth
-  facebook-official: https://facebook.com/gary.faircloth
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
-  email: /contact/
+  #twitter:
+  github: https://github.com/clockcrew
+  #linkedin-square:
+  #facebook-official:
+  #google-plus-square:
+  #email:
   #flickr:
   #instagram:
   #youtube-square:
